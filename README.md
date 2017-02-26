@@ -29,31 +29,31 @@ g++ addgift.cpp
 ./a.out
 ```
 ###To run question 1 :
-```
->g++ q1.cpp lib_ppl.a
->./a.out
+>```
+g++ q1.cpp lib_ppl.a
+./a.out
 ```
 ##To generate coupleinput for question 2:
-```
->g++ q2indep.cpp lib_ppl.a
->./a.out
+>```
+g++ q2indep.cpp lib_ppl.a
+./a.out
 ```
 
 ###To run question 2:
-```
->g++ q2.cpp lib_ppl.a
->./a.out
+>```
+g++ q2.cpp lib_ppl.a
+./a.out
 ```
 
 ###To view couple file:
-```
->Open coupledetails.txt
+>```
+Open coupledetails.txt
 ```
 
 ###To view gift exchange and K-most happiest and compatible couples:
-```
->Open gifttransfer.txt
+>```
+Open gifttransfer.txt
 ```
 ###Documentation of the project can be found in:
-```
->doc/html/index.html
+>```
+doc/html/index.html
