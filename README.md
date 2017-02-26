@@ -28,12 +28,14 @@ g++ addgirl.cpp
 g++ addgift.cpp
 ./a.out
 ```
+
 ###To run question 1 :
 >```
 g++ q1.cpp lib_ppl.a
 ./a.out
 ```
-##To generate coupleinput for question 2:
+
+###To generate coupleinput for question 2:
 >```
 g++ q2indep.cpp lib_ppl.a
 ./a.out
