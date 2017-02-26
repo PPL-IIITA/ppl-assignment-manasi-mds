@@ -14,7 +14,6 @@ g++ -c girlhapp.cpp
 g++ -c q2indep.cpp
 g++ -c q2nec.cpp
 g++ -c readboygirlq1.cpp
-
 ar rvs lib_ppl.a addboy.o addgift.o addgirl.o boyhapp.o couplehapp.o girlhapp.o q2indep.o q2nec.o readboygirlq1.o
 ```
 
