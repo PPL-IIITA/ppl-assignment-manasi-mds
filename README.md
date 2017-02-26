@@ -19,7 +19,7 @@ ar rvs lib_ppl.a addboy.o addgift.o addgirl.o boyhapp.o couplehapp.o girlhapp.o 
 ```
 
 
-##Steps
+###Steps
 To generate random input:
 >```
 g++ addboy.cpp
@@ -35,10 +35,11 @@ g++ addgift.cpp
 >./a.out
 ```
 ##To generate coupleinput for question 2:
->```
-g++ q2indep.cpp lab_ppl.a
-./a.out
 ```
+>g++ q2indep.cpp lab_ppl.a
+>./a.out
+```
+
 ###To run question 2:
 ```
 >g++ q2.cpp lab_ppl.a
