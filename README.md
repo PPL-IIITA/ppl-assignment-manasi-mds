@@ -30,18 +30,18 @@ g++ addgift.cpp
 ```
 ###To run question 1 :
 ```
->g++ q1.cpp lab_ppl.a
+>g++ q1.cpp lib_ppl.a
 >./a.out
 ```
 ##To generate coupleinput for question 2:
 ```
->g++ q2indep.cpp lab_ppl.a
+>g++ q2indep.cpp lib_ppl.a
 >./a.out
 ```
 
 ###To run question 2:
 ```
->g++ q2.cpp lab_ppl.a
+>g++ q2.cpp lib_ppl.a
 >./a.out
 ```
 
