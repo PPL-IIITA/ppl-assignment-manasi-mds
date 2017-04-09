@@ -3,8 +3,9 @@
 
 ##How to run
 
-###To create library (lib_ppl.a) execute-
+
 >```
+###To create library (lib_ppl.a) execute-
 g++ -c boyhapp.cpp
 g++ -c choosyhapp.cpp
 g++ -c couplehapp.cpp
@@ -27,8 +28,8 @@ ar rvs lib_ppl.a boyhapp.o choosyhapp.o couplehapp.o desperatehapp.o geekyhapp.o
 
 
 ###Steps
-To create couples:
 >```
+To create couples:
 g++ q2indep.cpp
 ./a.out
 
@@ -44,7 +45,8 @@ g++ q3new.cpp lib_ppl.a
 ```
 
 
-###To run question 4
+###To run question 4 :
+>```
 g++ q4.cpp lib_ppl.a
 ./a.out
 ```
