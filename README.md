@@ -39,16 +39,19 @@ g++ preq3.cpp
 ./a.out
 
 
->```
+
 ### To run question 3 :
-```
+
+
 g++ q3new.cpp lib_ppl.a
 ./a.out
 
 
->```
+
+
 ### To run question 4 :
-```
+
+
 g++ q4.cpp lib_ppl.a
 ./a.out
 
