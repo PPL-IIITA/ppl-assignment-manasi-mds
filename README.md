@@ -4,7 +4,7 @@
 ## How to run
 
 
->```
+```
 ### To create library (lib_ppl.a) execute-
 ```
 g++ -c boyhapp.cpp
@@ -30,7 +30,9 @@ ar rvs lib_ppl.a boyhapp.o choosyhapp.o couplehapp.o desperatehapp.o geekyhapp.o
 ```
 ```
 
+```
 To create couples:
+```
 g++ q2indep.cpp
 ./a.out
 
@@ -38,18 +40,18 @@ g++ preq3.cpp
 ./a.out
 
 
-
+```
 ### To run question 3 :
-
+```
 
 g++ q3new.cpp lib_ppl.a
 ./a.out
 
 
 
-
+```
 ### To run question 4 :
-
+```
 
 g++ q4.cpp lib_ppl.a
 ./a.out
