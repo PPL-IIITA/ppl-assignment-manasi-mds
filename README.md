@@ -1,11 +1,11 @@
 # ppl-assignment-manasi-mds
-##CREATED BY Manasi Mohandas- (ICM2015501) SECTION - 'B'
+## CREATED BY Manasi Mohandas- (ICM2015501) SECTION - 'B'
 
-##How to run
+## How to run
 
 
 >```
-###To create library (lib_ppl.a) execute-
+### To create library (lib_ppl.a) execute-
 g++ -c boyhapp.cpp
 g++ -c choosyhapp.cpp
 g++ -c couplehapp.cpp
@@ -27,7 +27,7 @@ ar rvs lib_ppl.a boyhapp.o choosyhapp.o couplehapp.o desperatehapp.o geekyhapp.o
 ```
 
 
-###Steps
+### Steps
 >```
 To create couples:
 g++ q2indep.cpp
@@ -38,14 +38,14 @@ g++ preq3.cpp
 ```
 
 
-###To run question 3 :
+### To run question 3 :
 >```
 g++ q3new.cpp lib_ppl.a
 ./a.out
 ```
 
 
-###To run question 4 :
+### To run question 4 :
 >```
 g++ q4.cpp lib_ppl.a
 ./a.out
