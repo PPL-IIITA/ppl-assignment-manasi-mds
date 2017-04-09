@@ -27,6 +27,8 @@ g++ -c preq3.cpp
 
 ar rvs lib_ppl.a boyhapp.o choosyhapp.o couplehapp.o desperatehapp.o geekyhapp.o generoushapp.o girlhapp.o miserhapp.o normalhapp.o q3fun.o q4fun.o addboy.o addgift.o addgirl.o readboygirlq1.o q2indep.o preq3.o
 
+```
+```
 
 To create couples:
 g++ q2indep.cpp
