@@ -1,0 +1,9 @@
+question 3
+->g++ q3new.cpp lib_ppl.a
+->./a.out
+
+question 4
+->g++ q4.cpp lib_ppl.a
+->./a.out
+
+Output will be printed on the screen.

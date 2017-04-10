@@ -1,534 +1,400 @@
-Girl: YMQJUTJBI Boy: FGSEGPPPQ 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:400 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:521 Value:48
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:534 Value:21
+Girl: SNGISHPFY Boy: WSULGCMDW 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
 
 
-Girl: DUSUQQZRY Boy: JUQXLHPEO 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:400 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:521 Value:48
+Girl: FSYQVBYVU Boy: AZKYBLVJW 
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2825 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2719 Value:6
 
 
-Girl: CZOVEPYIS Boy: ETHNQHMQX 
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2964 Value:5
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2959 Value:4
+Girl: JCXTCEDGM Boy: CKRHJRXHY 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:583 Value:12
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:607 Value:0
 
 
-Girl: VSJASXTCT Boy: ZNEVTKRDC 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:400 Value:25
+Girl: UTEPLRWWL Boy: BTUUMGKPA 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:583 Value:12
 
 
-Girl: MNUWRPOLH Boy: MDCOIUBNJ 
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2964 Value:5
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2959 Value:4
+Girl: HJDCUFZQI Boy: POJMRCHOO 
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2825 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2719 Value:6
 
 
-Girl: HMAHOCXLI Boy: EVRYRRIGD 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:400 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:521 Value:48
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:534 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:543 Value:44
+Girl: FTOTPHYFU Boy: TGIJTRJXM 
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2825 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2719 Value:6
 
 
-Girl: MLTGILQJF Boy: CYOPCKWRA 
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2964 Value:5
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2959 Value:4
+Girl: RDSDIEYQY Boy: RWPINVHEK 
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2825 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2719 Value:6
 
 
-Girl: PEJLQXFNO Boy: FQNDPKCBN 
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2964 Value:5
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2959 Value:4
+Girl: BHGLPAZIR Boy: SETFJDWSP 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:583 Value:12
 
 
-Girl: WDZFMNIVD Boy: ICOROJSCH 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:400 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:521 Value:48
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:534 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:543 Value:44
+Girl: IIWEAZXFK Boy: ZAOVHNKBB 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:583 Value:12
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:607 Value:0
 
 
-Girl: ADVGVZPGQ Boy: OCEYCSEZN 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:400 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:521 Value:48
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:534 Value:21
+Girl: DDADOXOGB Boy: FZMTMCJWI 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:583 Value:12
 
 
-Girl: ONFCMKDRX Boy: YGIPQMFIC 
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2964 Value:5
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2959 Value:4
+Girl: IEHZFOFSD Boy: CPNJKIGSW 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:583 Value:12
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:607 Value:0
 
 
-Girl: SZSVLNMIS Boy: PQSTHEFCB 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
+Girl: HROZBWXFY Boy: GOHHAWWCW 
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2825 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2719 Value:6
 
 
-Girl: TVMLKBSON Boy: JWLTFZQXD 
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2964 Value:5
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2959 Value:4
+Girl: ZEDJJILNX Boy: MMYUFHOZP 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:583 Value:12
 
 
-Girl: JUCDIZJIV Boy: QMZUVCHIS 
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2964 Value:5
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2959 Value:4
+Girl: IBFJMJSLQ Boy: ISHKBZENV 
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2825 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2719 Value:6
 
 
-Girl: UEBCAXOLH Boy: TMSWAAEPG 
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2964 Value:5
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2959 Value:4
+Girl: PYNOGQUSC Boy: PEXRPIIWV 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
 
 
-Girl: PGVFJPMLC Boy: KATAVHUUJ 
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2964 Value:5
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2959 Value:4
+Girl: IMPMPPYRR Boy: PRCERJVNH 
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2825 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2719 Value:6
 
 
-Girl: SJKOTGSYO Boy: QJMTXJECW 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:400 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:521 Value:48
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:534 Value:21
+Girl: PWDRNBECK Boy: SJSSFZGKJ 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
 
 
-Girl: SHYPDDRFF Boy: WAJNLDDIO 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:400 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:521 Value:48
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:534 Value:21
+Girl: UYCZDOOBM Boy: NJZDUENEP 
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2825 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Luxury gift Price:2719 Value:6
 
 
-Girl: OVSXNYSSH Boy: NKVFYAKMK 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:400 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:521 Value:48
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:534 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:543 Value:44
+Girl: YIWKSKZEA Boy: NYFNYWLQM 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:583 Value:12
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:607 Value:0
 
 
-Girl: EJZUDJSTM Boy: VOPBKDXZQ 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:400 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:521 Value:48
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:534 Value:21
+Girl: OLWQCBJMX Boy: VVXGOTHXF 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
 
 
-Girl: XMUCCRVZE Boy: NOSNTYHXE 
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2964 Value:5
-Time: Mon Feb 27 00:57:53 2017
-	      Luxury gift Price:2959 Value:4
+Girl: YAKEPDNOS Boy: ABVHJKOQM 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:583 Value:12
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:607 Value:0
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:611 Value:18
 
 
-Girl: TTYDDEZPF Boy: GOXSBOFEG 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:400 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:521 Value:48
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:534 Value:21
-
-
-Girl: FNWGTFINJ Boy: JBKLPNRPR 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:400 Value:25
-
-
-Girl: RGEFFQZIS Boy: OGFNEMXTC 
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:118 Value:3
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:129 Value:9
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:214 Value:10
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:231 Value:49
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:32
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:268 Value:21
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:292 Value:7
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:324 Value:45
-Time: Mon Feb 27 00:57:53 2017
-	      Utility gift Price:329 Value:29
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:335 Value:25
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:350 Value:36
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:396 Value:37
-Time: Mon Feb 27 00:57:53 2017
-	      Essential gift Price:400 Value:25
+Girl: TTHFMMVUN Boy: EHHACNVHY 
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:108 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:164 Value:24
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:391 Value:15
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:407 Value:34
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:410 Value:41
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:437 Value:1
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:438 Value:13
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:473 Value:26
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:523 Value:49
+Time: Fri Mar 24 21:06:57 2017
+	      Essential gift Price:583 Value:12
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:607 Value:0
+Time: Fri Mar 24 21:06:57 2017
+	      Utility gift Price:611 Value:18
 
 
 
 
 The list of kth happiest couples 
-WAJNLDDIO SHYPDDRFF 9344
-FQNDPKCBN PEJLQXFNO 5960
-ETHNQHMQX CZOVEPYIS 5436
-YGIPQMFIC ONFCMKDRX 4694
-QMZUVCHIS JUCDIZJIV 4618
+EHHACNVHY TTHFMMVUN 8160
+WSULGCMDW SNGISHPFY 8106
+ABVHJKOQM YAKEPDNOS 8105
+TGIJTRJXM FTOTPHYFU 4230
 
 
 The list of kth most compatible couples 
-MDCOIUBNJ MNUWRPOLH 2760
-ZNEVTKRDC VSJASXTCT 2497
-JWLTFZQXD TVMLKBSON 2350
-PQSTHEFCB SZSVLNMIS 2080
-OGFNEMXTC RGEFFQZIS 1619
+SJSSFZGKJ PWDRNBECK 2248
+TGIJTRJXM FTOTPHYFU 2206
+BTUUMGKPA UTEPLRWWL 2186
+PEXRPIIWV PYNOGQUSC 2182

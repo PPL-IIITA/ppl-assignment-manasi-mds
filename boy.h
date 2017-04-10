@@ -1,6 +1,7 @@
 #include<iostream>
 #include<string>
 #include<cmath>
+
 #ifndef BOY_H
 #define BOY_H
 using namespace std;

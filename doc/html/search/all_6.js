@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['ga',['ga',['../classcouple.html#aa1f4d9766084edb65d12cca601e0f57e',1,'couple']]],
+  ['geeky',['geeky',['../classgeeky.html',1,'']]],
+  ['geekyhapp_2ecpp',['geekyhapp.cpp',['../geekyhapp_8cpp.html',1,'']]],
+  ['generous',['generous',['../classgenerous.html',1,'']]],
+  ['generoushapp_2ecpp',['generoushapp.cpp',['../generoushapp_8cpp.html',1,'']]],
+  ['gif',['gif',['../classcouple.html#a39cb5dbcd97eeb8cf37638f5055aca2b',1,'couple']]],
+  ['gift',['gift',['../classgift.html',1,'']]],
+  ['gift_2eh',['gift.h',['../gift_8h.html',1,'']]],
+  ['gift_5fessential_2eh',['gift_essential.h',['../gift__essential_8h.html',1,'']]],
+  ['gift_5fluxury_2eh',['gift_luxury.h',['../gift__luxury_8h.html',1,'']]],
+  ['gift_5futility_2eh',['gift_utility.h',['../gift__utility_8h.html',1,'']]],
+  ['giftdetails_2etxt',['giftdetails.txt',['../giftdetails_8txt.html',1,'']]],
+  ['gifttransfer_2etxt',['gifttransfer.txt',['../gifttransfer_8txt.html',1,'']]],
+  ['gifttransferq3_2etxt',['gifttransferq3.txt',['../gifttransferq3_8txt.html',1,'']]],
+  ['girl',['girl',['../classgirl.html',1,'']]],
+  ['girl_2eh',['girl.h',['../girl_8h.html',1,'']]],
+  ['girl_5fchoosy_2eh',['girl_choosy.h',['../girl__choosy_8h.html',1,'']]],
+  ['girl_5fdesperate_2eh',['girl_desperate.h',['../girl__desperate_8h.html',1,'']]],
+  ['girl_5fdesperate_5fh',['GIRL_DESPERATE_H',['../girl__desperate_8h.html#aa533a6aa7ae9bfda4f65356739148f64',1,'girl_desperate.h']]],
+  ['girl_5fnormal_2eh',['girl_normal.h',['../girl__normal_8h.html',1,'']]],
+  ['girldetails_2etxt',['girldetails.txt',['../girldetails_8txt.html',1,'']]],
+  ['girlhapp_2ecpp',['girlhapp.cpp',['../girlhapp_8cpp.html',1,'']]]
+];

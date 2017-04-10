@@ -1,0 +1,6 @@
+->g++ q2indep.cpp
+->./a.out
+
+->g++ preq3.cpp
+->./a.out
+

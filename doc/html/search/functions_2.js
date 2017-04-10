@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['fun1',['fun1',['../preq3_8cpp.html#a176b6476103716ab3adeeb6daf474ec9',1,'fun1(gift g[], couple c[]):&#160;preq3.cpp'],['../q3_8cpp.html#a431c3fbaad418567f8211b2773128ee5',1,'fun1(gift *g[], couple[], int[]):&#160;q3.cpp'],['../q3fun_8cpp.html#a176b6476103716ab3adeeb6daf474ec9',1,'fun1(gift g[], couple c[]):&#160;q3fun.cpp'],['../q3new_8cpp.html#a176b6476103716ab3adeeb6daf474ec9',1,'fun1(gift g[], couple c[]):&#160;preq3.cpp']]],
+  ['fun2',['fun2',['../preq3_8cpp.html#aa46ca8ea881f0b14c4cd6afd20129374',1,'fun2(gift g[], couple c[], int m, int n):&#160;preq3.cpp'],['../q3_8cpp.html#a17fd3eb626fe3c963d379402f3791c68',1,'fun2(gift *g[], couple[], int, int, int):&#160;q3.cpp'],['../q3_8cpp.html#a989eec1bc0f26bd35767a658f519de20',1,'fun2(gift *g[], couple c[], int m, int n, int glist[]):&#160;q3.cpp'],['../q3fun_8cpp.html#aa46ca8ea881f0b14c4cd6afd20129374',1,'fun2(gift g[], couple c[], int m, int n):&#160;q3fun.cpp'],['../q3new_8cpp.html#aa46ca8ea881f0b14c4cd6afd20129374',1,'fun2(gift g[], couple c[], int m, int n):&#160;preq3.cpp']]],
+  ['fun3',['fun3',['../q3fun_8cpp.html#a53bd7af6ebb5dc96e77f29d01b17e95e',1,'fun3(gift g[], couple c[], int m, int n):&#160;q3fun.cpp'],['../q3new_8cpp.html#a53bd7af6ebb5dc96e77f29d01b17e95e',1,'fun3(gift g[], couple c[], int m, int n):&#160;q3fun.cpp']]]
+];
